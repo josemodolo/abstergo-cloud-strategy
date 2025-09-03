@@ -3,9 +3,9 @@ Plano estratégico de adoção de Cloud na Abstergo Industries, com foco em solu
 
 
 <h2>RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS</h2>
-<b>Data</b>: 01/09/2025
-<b>Empresa</b>: Abstergo Industries
-<b>Responsável</b>: Jose Modolo Neto
+Data: 01/09/2025
+Empresa: Abstergo Industries
+Responsável: Jose Modolo Neto
 
 Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Jose Modolo Neto. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
